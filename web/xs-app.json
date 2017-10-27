@@ -1,0 +1,5 @@
+{
+  "welcomeFile": "index.html",
+  "authenticationMethod": "none",
+  "routes": [{ "source": "/XSOdata/PO.xsodata/", "destination": "js_be" }]
+}
